@@ -1,0 +1,11 @@
+madlibs = f"Hii, {name}. I recently moved in {city}. It's a very {adjective} city. How's your {activity} classes going?.I just moved here {number} days ago. I have already visited many places here like {place1},{place2},{place3},etc. I saw {celebrity}'s home. The food here is {adjective2}."
+name = input("Enter a name: ")
+city = input("Enter a city: ")
+adjective = input("Enter an adjective: ")
+activity = input("Enter an activity name: ")
+number = input("Enter a number: ")
+place1 = input("Enter a place1's name: ")
+place2 = input("Enter a place2's name: ")
+place3 = input("Enter a place3's name: ")
+celebrity = input("Enter a celebrity's name: ")
+adjective2 = input("Enter another adjective: ")
